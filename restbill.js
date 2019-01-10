@@ -22,3 +22,5 @@ var bill = {
 };
 
 bill.finalBillCost()
+
+//code not complete

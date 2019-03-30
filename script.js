@@ -1,5 +1,5 @@
 var url = 'https://cors-anywhere.herokuapp.com/http://careerdev-teaching-lujason2015.c9users.io/api';
-var data = {username: 'Melissa'};
+var data = {username: 'Melissa', password: '1234'};
 
 function postData(){
 fetch(url, {
